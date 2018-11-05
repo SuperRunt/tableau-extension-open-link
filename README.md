@@ -10,3 +10,7 @@ Here's a first stab... I'm not 100% sure this is a useful extension, since the u
 * add the extension object to the dashboard 
 * choose 'My Extensions' in the pop up 
 * select the manifest.trex file in this project
+
+## TODO
+* add configuration window, to let user set the domain for url searched for
+* currently we only cover, so I'll add functionality to allow other selection events too
