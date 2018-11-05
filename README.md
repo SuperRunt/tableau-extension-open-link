@@ -1,4 +1,4 @@
-# Examsoft Question Extension
+# Extension that opens URL defined in mark data
 Here's a first stab... I'm not 100% sure this is a useful extension, since the user has to login and that is kind of a cluster. 
 
 ## Getting Started
